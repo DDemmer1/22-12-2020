@@ -3,7 +3,7 @@
 
 ### 📝 Aufgabe:
 
-Erzeugt eine Methode die euch ein ```int[][]``` als ````return``` Wert zurückgibt, das in einem Schachbrettmuster mit 0 und 1 gefüllt ist.
+Erzeugt eine Methode die euch ein ```int[][]``` als ```return``` Wert zurückgibt, das in einem Schachbrettmuster mit 0 und 1 gefüllt ist.
 
 Bsp.: Die Methode ```getBoard(3,4)``` gibt ein 2D Array zurück, das so aussieht:
 
