@@ -7,7 +7,7 @@ Erzeugt eine Methode die euch ein ```int[][]``` als ```return``` Wert zurückgib
 
 Bsp.: Die Methode ```getBoard(3,4)``` gibt ein 2D Array zurück, das so aussieht:
 
-0 1 0<br/>1 0 1<br/>0 1 0<br/>1 0 1
+1 0 1<br/>0 1 0<br/>1 0 1<br/>0 1 0
 
 ℹ️ Tipp:
 1. Lauft mit einer doppelten ```for``` Schleife über das 2D Array.
